@@ -1,0 +1,26 @@
+{
+  "pages": ["pages/homepage/main", "pages/index/main"],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "宝象金融",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor": "#1296db",
+    "list": [
+      {
+        "pagePath": "pages/homepage/main",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/homepage/main",
+        "text": "设置"
+      },
+      {
+        "pagePath": "pages/homepage/main",
+        "text": "帮助"
+      }
+    ]
+  }
+}
